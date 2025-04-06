@@ -1,0 +1,101 @@
+Drug_ID,Drug_Name,Manufacturer,Active_Ingredients,Strength,Country,Approval_Date,Status
+1001,Panacure,AstraZeneca,Favipiravir,200mg,Germany,2024-12-24,Rejected
+1002,Zedafil,Roche,Lisinopril,5mg,India,2022-09-25,Rejected
+1003,Ibucare,Pfizer,,500mg,USA,2022-05-14,Approved
+1004,Xanpril,Roche,Favipiravir,500mg,UK,2023-06-07,Approved
+1005,Ventomax,Lupin,Ibuprofen,400mg,Germany,2023-04-21,Rejected
+1006,,GSK,Amoxicillin,5mg,UK,2023-03-18,Approved
+1007,Zedafil,Pfizer,Ibuprofen,250mg,India,2022-11-08,Pending
+1008,Panacure,Sun Pharma,Amoxicillin,5mg,Germany,2022-09-12,Rejected
+1009,Xanpril,Sun Pharma,Sildenafil,200mg,UK,,Approved
+1010,Azitron,Sun Pharma,Sildenafil,400mg,UK,2025-02-20,Approved
+1011,Panacure,Novartis,Favipiravir,5mg,Germany,2024-07-31,Approved
+1012,Amoxitab,AstraZeneca,Favipiravir,5mg,UK,2022-08-19,Approved
+1013,Mycocure,Moderna,Paracetamol,50mg,Germany,2024-10-09,Rejected
+1014,Zedafil,Lupin,,500mg,UK,2024-01-21,Approved
+1015,Mycocure,Moderna,Favipiravir,200mg,USA,,Approved
+1016,Ventomax,Cipla,,250mg,Germany,2022-05-25,Approved
+1017,Mycocure,AstraZeneca,Amoxicillin,400mg,USA,2022-05-22,Pending
+1018,Panacure,Sun Pharma,Favipiravir,500mg,Australia,2022-08-29,Pending
+1019,Xanpril,Pfizer,Azithromycin,100mg,Canada,2023-03-11,Rejected
+1020,Ventomax,AstraZeneca,Salbutamol,200mg,USA,2023-04-02,Rejected
+1021,Coviquin,Novartis,Ibuprofen,400mg,UK,2024-05-30,Pending
+1022,Mycocure,Pfizer,,250mg,India,2024-10-27,Pending
+1023,Ibucare,Roche,Amoxicillin,400mg,Australia,2022-05-17,Approved
+1024,,Novartis,Fluconazole,400mg,USA,,Approved
+1025,Coviquin,Roche,Amoxicillin,400mg,Australia,2024-08-24,Pending
+1026,Zedafil,Pfizer,Paracetamol,50mg,USA,,Rejected
+1027,Ventomax,Sun Pharma,Paracetamol,100mg,USA,2023-02-08,Pending
+1028,Mycocure,Moderna,Sildenafil,250mg,India,2025-01-09,Rejected
+1029,Mycocure,Lupin,Ibuprofen,250mg,India,2025-03-30,Pending
+1030,Coviquin,AstraZeneca,Lisinopril,250mg,USA,2024-07-30,Approved
+1031,Ibucare,AstraZeneca,Salbutamol,500mg,Canada,2024-01-17,Rejected
+1032,Amoxitab,Sun Pharma,Amoxicillin,200mg,India,2023-03-14,Approved
+1033,Zedafil,Lupin,Sildenafil,250mg,India,2024-03-03,Pending
+1034,Ventomax,Roche,Amoxicillin,200mg,India,,Rejected
+1035,Xanpril,Moderna,Paracetamol,250mg,Germany,2024-10-07,Rejected
+1036,Mycocure,Lupin,Fluconazole,100mg,Australia,2023-06-12,Rejected
+1037,Panacure,Roche,Salbutamol,500mg,USA,2022-04-16,Approved
+1038,Panacure,Lupin,Sildenafil,500mg,Canada,2022-12-10,Pending
+1039,Ventomax,Cipla,Ibuprofen,400mg,India,2025-03-25,Approved
+1040,Zedafil,AstraZeneca,Paracetamol,50mg,Germany,2024-01-22,Rejected
+1041,Mycocure,Cipla,Sildenafil,500mg,Australia,2023-09-16,Approved
+1042,Azitron,Lupin,Azithromycin,500mg,UK,2023-06-11,Rejected
+1043,Azitron,Novartis,Sildenafil,100mg,UK,2022-12-03,Approved
+1044,Amoxitab,AstraZeneca,Sildenafil,250mg,India,2023-03-06,Pending
+1045,Xanpril,Moderna,Favipiravir,5mg,Canada,2023-09-10,Approved
+1046,Ventomax,Sun Pharma,Favipiravir,500mg,Canada,2022-09-11,Approved
+1047,Ventomax,Cipla,Lisinopril,500mg,Australia,2022-08-28,Approved
+1048,Amoxitab,Sun Pharma,Lisinopril,5mg,Australia,2023-11-17,Approved
+1049,Ibucare,Roche,Paracetamol,50mg,USA,2022-09-03,Pending
+1050,Ibucare,Novartis,Favipiravir,200mg,India,2023-10-15,Rejected
+1051,Amoxitab,Roche,Favipiravir,100mg,UK,2023-09-22,Rejected
+1052,Ventomax,GSK,,5mg,USA,2024-10-29,Rejected
+1053,Ventomax,Roche,Fluconazole,5mg,Canada,2023-05-21,Pending
+1054,Azitron,Roche,Fluconazole,50mg,USA,2022-06-12,Pending
+1055,Xanpril,AstraZeneca,Lisinopril,500mg,UK,2024-03-19,Approved
+1056,Panacure,Novartis,Sildenafil,500mg,Canada,2024-07-17,Pending
+1057,Ibucare,Novartis,Salbutamol,100mg,Australia,2022-10-16,Rejected
+1058,Xanpril,Moderna,,400mg,Germany,2023-11-15,Pending
+1059,Mycocure,Roche,Lisinopril,400mg,Germany,2022-08-06,Rejected
+1060,Ventomax,Novartis,Sildenafil,5mg,Australia,2024-08-10,Pending
+1061,Panacure,Pfizer,Ibuprofen,500mg,India,2023-07-05,Pending
+1062,Coviquin,Moderna,Fluconazole,5mg,USA,2024-12-07,Rejected
+1063,Amoxitab,Pfizer,Ibuprofen,5mg,Canada,,Rejected
+1064,Ibucare,Pfizer,Favipiravir,500mg,Australia,2024-11-21,Pending
+1065,Coviquin,Sun Pharma,Salbutamol,50mg,Australia,2023-10-19,Pending
+1066,Xanpril,Lupin,Favipiravir,200mg,India,2024-09-18,Approved
+1067,Amoxitab,Pfizer,Sildenafil,200mg,USA,2023-01-29,Rejected
+1068,Amoxitab,Sun Pharma,Salbutamol,50mg,Australia,2025-04-04,Approved
+1069,Xanpril,Roche,Amoxicillin,5mg,UK,2022-07-23,Pending
+1070,Mycocure,Pfizer,Favipiravir,50mg,Australia,2022-06-16,Rejected
+1071,Ibucare,Lupin,Paracetamol,250mg,Canada,2025-01-27,Pending
+1072,Coviquin,Novartis,Sildenafil,500mg,USA,2023-03-26,Rejected
+1073,Zedafil,GSK,Fluconazole,250mg,Canada,2023-06-29,Pending
+1074,Ibucare,Cipla,Azithromycin,400mg,USA,2022-08-07,Approved
+1075,Azitron,Sun Pharma,Lisinopril,500mg,UK,2023-04-02,Approved
+1076,Xanpril,GSK,Amoxicillin,500mg,Canada,2022-09-09,Approved
+1077,Amoxitab,Sun Pharma,Favipiravir,100mg,Germany,,Rejected
+1078,Xanpril,Cipla,Fluconazole,500mg,Australia,2023-11-17,Rejected
+1079,Xanpril,Lupin,,400mg,UK,2023-06-11,Rejected
+1080,Ventomax,Moderna,Sildenafil,200mg,USA,2024-03-10,Approved
+1081,Xanpril,Cipla,Sildenafil,200mg,Canada,2024-12-18,Rejected
+1082,Zedafil,AstraZeneca,Amoxicillin,5mg,Australia,,Pending
+1083,Ventomax,GSK,,500mg,UK,2023-10-24,Rejected
+1084,Mycocure,Pfizer,Azithromycin,200mg,USA,,Approved
+1085,Xanpril,Roche,Ibuprofen,250mg,Germany,2022-12-14,Approved
+1086,Zedafil,AstraZeneca,Sildenafil,5mg,Germany,2023-11-02,Pending
+1087,Mycocure,Pfizer,Salbutamol,500mg,USA,2023-10-09,Rejected
+1088,,Pfizer,Sildenafil,250mg,Germany,2023-02-25,Rejected
+1089,Zedafil,Novartis,Paracetamol,50mg,UK,2025-02-10,Pending
+1090,,Sun Pharma,Ibuprofen,50mg,Australia,2023-05-25,Pending
+1091,Panacure,Novartis,Sildenafil,100mg,Germany,2025-03-31,Approved
+1092,Panacure,Cipla,Lisinopril,500mg,Australia,2025-03-02,Rejected
+1093,Ibucare,Moderna,Lisinopril,50mg,India,2025-01-06,Pending
+1094,Coviquin,GSK,Ibuprofen,50mg,Germany,2022-07-25,Rejected
+1095,Zedafil,Pfizer,Azithromycin,200mg,India,2024-11-07,Pending
+1096,Azitron,Sun Pharma,Lisinopril,100mg,Australia,2024-12-17,Approved
+1097,Azitron,GSK,Azithromycin,100mg,Canada,2022-12-27,Pending
+1098,Zedafil,Cipla,Lisinopril,200mg,Australia,2024-07-13,Pending
+1099,Ventomax,Moderna,Lisinopril,500mg,UK,2023-04-21,Pending
+1100,Ventomax,AstraZeneca,Amoxicillin,250mg,Canada,2022-12-15,Pending
